@@ -5,5 +5,9 @@
   "scripts": {
     "build": "cocos build --platform wechatgame",
     "preview": "cocos run --platform web-desktop"
-  }
+  },
+  "creator": {
+    "version": "3.8.8"
+  },
+  "uuid": "5d960d40-f65d-4233-aa4a-50080a339131"
 }

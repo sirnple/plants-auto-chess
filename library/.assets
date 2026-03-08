@@ -1,0 +1,30 @@
+{
+    "version": "1.0.1",
+    "data": {
+        "paths": [
+            "resources",
+            "Scripts",
+            "resources\\prefabs",
+            "resources\\textures",
+            "Scripts\\config",
+            "Scripts\\entities",
+            "Scripts\\managers",
+            "Scripts\\scenes",
+            "Scripts\\systems",
+            "Scripts\\types",
+            "Scripts\\config\\GameConfig.ts",
+            "Scripts\\config\\GameConstants.ts",
+            "Scripts\\entities\\Item.ts",
+            "Scripts\\entities\\Plant.ts",
+            "Scripts\\entities\\Projectile.ts",
+            "Scripts\\entities\\Zombie.ts",
+            "Scripts\\managers\\BattleManager.ts",
+            "Scripts\\managers\\DragDropManager.ts",
+            "Scripts\\managers\\MergeManager.ts",
+            "Scripts\\managers\\ShopManager.ts",
+            "Scripts\\managers\\WaveManager.ts",
+            "Scripts\\scenes\\GameScene.ts",
+            "Scripts\\types\\GameTypes.ts"
+        ]
+    }
+}

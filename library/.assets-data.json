@@ -1,0 +1,117 @@
+{
+  "79565085-5320-44a0-a03e-7b741bba2e4e": {
+    "url": "db://assets/resources",
+    "value": {},
+    "versionCode": 1
+  },
+  "f67427db-e6eb-432e-9896-8257ce6efba6": {
+    "url": "db://assets/Scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "8182945d-f196-41ff-84f4-7881b0a345ea": {
+    "url": "db://assets/resources/prefabs",
+    "value": {},
+    "versionCode": 1
+  },
+  "e681ad81-4f89-4669-85b1-02d1b46416a6": {
+    "url": "db://assets/resources/textures",
+    "value": {},
+    "versionCode": 1
+  },
+  "ee93d8f3-2fd5-4c83-968b-1012f293775e": {
+    "url": "db://assets/Scripts/config",
+    "value": {},
+    "versionCode": 1
+  },
+  "97cf873a-d467-4662-a341-cd822b6df9b5": {
+    "url": "db://assets/Scripts/entities",
+    "value": {},
+    "versionCode": 1
+  },
+  "ee3d4deb-2742-4616-b103-a642d3b42ddf": {
+    "url": "db://assets/Scripts/managers",
+    "value": {},
+    "versionCode": 1
+  },
+  "22c01a38-ed1e-40b2-a857-41b54e8b2a13": {
+    "url": "db://assets/Scripts/scenes",
+    "value": {},
+    "versionCode": 1
+  },
+  "e99aa2e3-3a1d-4f36-a589-8f4203c9b3d2": {
+    "url": "db://assets/Scripts/systems",
+    "value": {},
+    "versionCode": 1
+  },
+  "e27caf74-770a-4303-93f6-f28ab88c0771": {
+    "url": "db://assets/Scripts/types",
+    "value": {},
+    "versionCode": 1
+  },
+  "1d2385a2-387b-465b-ad26-1cf7eadd2549": {
+    "url": "db://assets/Scripts/config/GameConfig.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "5a333c8d-c0ed-46d2-ab47-56b8c45f0839": {
+    "url": "db://assets/Scripts/config/GameConstants.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "73309c01-385f-4ed6-b8e5-671286804eea": {
+    "url": "db://assets/Scripts/entities/Item.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "64a38d96-e6a6-4d18-9744-6518aeec92f7": {
+    "url": "db://assets/Scripts/entities/Plant.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "aef70a69-8889-4f00-86f2-a2ae45d89691": {
+    "url": "db://assets/Scripts/entities/Projectile.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "5b2d568d-f8b4-4bc5-b429-4f5e80db1001": {
+    "url": "db://assets/Scripts/entities/Zombie.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2cd256d7-972d-4bec-8cd1-c98e0f0e86b1": {
+    "url": "db://assets/Scripts/managers/BattleManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "a5494cb0-f3e5-4251-a540-d740762fa7f1": {
+    "url": "db://assets/Scripts/managers/DragDropManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "29726ebf-e804-4fff-89c6-fb2a87085fea": {
+    "url": "db://assets/Scripts/managers/MergeManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "42e49429-e185-4358-a3ee-5122787f8024": {
+    "url": "db://assets/Scripts/managers/ShopManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "83c82340-139c-4e0f-996f-c5c93c523a41": {
+    "url": "db://assets/Scripts/managers/WaveManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "98ecb370-bc92-4278-836c-db848bc90239": {
+    "url": "db://assets/Scripts/scenes/GameScene.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "6b9644c9-8f84-4760-ac2c-8f5d1e72af80": {
+    "url": "db://assets/Scripts/types/GameTypes.ts",
+    "value": {},
+    "versionCode": 1
+  }
+}

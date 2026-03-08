@@ -1,0 +1,167 @@
+{
+  "version": "1.0.1",
+  "map": {
+    "resources": {
+      "time": 1772979894849.7651,
+      "uuid": "79565085-5320-44a0-a03e-7b741bba2e4e"
+    },
+    "Scripts": {
+      "time": 1772979894852.2927,
+      "uuid": "f67427db-e6eb-432e-9896-8257ce6efba6"
+    },
+    "resources\\prefabs": {
+      "time": 1772978665503.3416,
+      "uuid": "8182945d-f196-41ff-84f4-7881b0a345ea"
+    },
+    "resources\\textures": {
+      "time": 1772978665503.3416,
+      "uuid": "e681ad81-4f89-4669-85b1-02d1b46416a6"
+    },
+    "Scripts\\config": {
+      "time": 1772979894853.946,
+      "uuid": "ee93d8f3-2fd5-4c83-968b-1012f293775e"
+    },
+    "Scripts\\entities": {
+      "time": 1772979894856.9702,
+      "uuid": "97cf873a-d467-4662-a341-cd822b6df9b5"
+    },
+    "Scripts\\managers": {
+      "time": 1772979894859.4858,
+      "uuid": "ee3d4deb-2742-4616-b103-a642d3b42ddf"
+    },
+    "Scripts\\scenes": {
+      "time": 1772979894859.4858,
+      "uuid": "22c01a38-ed1e-40b2-a857-41b54e8b2a13"
+    },
+    "Scripts\\systems": {
+      "time": 1772978665500.3171,
+      "uuid": "e99aa2e3-3a1d-4f36-a589-8f4203c9b3d2"
+    },
+    "Scripts\\types": {
+      "time": 1772979894860.4827,
+      "uuid": "e27caf74-770a-4303-93f6-f28ab88c0771"
+    },
+    "Scripts\\config\\GameConfig.ts": {
+      "time": 1772978863292.9407,
+      "uuid": "1d2385a2-387b-465b-ad26-1cf7eadd2549"
+    },
+    "Scripts\\config\\GameConstants.ts": {
+      "time": 1772978685075.351,
+      "uuid": "5a333c8d-c0ed-46d2-ab47-56b8c45f0839"
+    },
+    "Scripts\\entities\\Item.ts": {
+      "time": 1772978810281.2527,
+      "uuid": "73309c01-385f-4ed6-b8e5-671286804eea"
+    },
+    "Scripts\\entities\\Plant.ts": {
+      "time": 1772978705411.7195,
+      "uuid": "64a38d96-e6a6-4d18-9744-6518aeec92f7"
+    },
+    "Scripts\\entities\\Projectile.ts": {
+      "time": 1772978801746.4758,
+      "uuid": "aef70a69-8889-4f00-86f2-a2ae45d89691"
+    },
+    "Scripts\\entities\\Zombie.ts": {
+      "time": 1772978723765.603,
+      "uuid": "5b2d568d-f8b4-4bc5-b429-4f5e80db1001"
+    },
+    "Scripts\\managers\\BattleManager.ts": {
+      "time": 1772978952012.3733,
+      "uuid": "2cd256d7-972d-4bec-8cd1-c98e0f0e86b1"
+    },
+    "Scripts\\managers\\DragDropManager.ts": {
+      "time": 1772978895577.4216,
+      "uuid": "a5494cb0-f3e5-4251-a540-d740762fa7f1"
+    },
+    "Scripts\\managers\\MergeManager.ts": {
+      "time": 1772978992015.8616,
+      "uuid": "29726ebf-e804-4fff-89c6-fb2a87085fea"
+    },
+    "Scripts\\managers\\ShopManager.ts": {
+      "time": 1772978972109.3396,
+      "uuid": "42e49429-e185-4358-a3ee-5122787f8024"
+    },
+    "Scripts\\managers\\WaveManager.ts": {
+      "time": 1772979035219.4424,
+      "uuid": "83c82340-139c-4e0f-996f-c5c93c523a41"
+    },
+    "Scripts\\scenes\\GameScene.ts": {
+      "time": 1772979087719.4075,
+      "uuid": "98ecb370-bc92-4278-836c-db848bc90239"
+    },
+    "Scripts\\types\\GameTypes.ts": {
+      "time": 1772978676847.9897,
+      "uuid": "6b9644c9-8f84-4760-ac2c-8f5d1e72af80"
+    },
+    "resources.meta": {
+      "time": 1772979894863.5452
+    },
+    "Scripts.meta": {
+      "time": 1772979894863.5452
+    },
+    "resources\\prefabs.meta": {
+      "time": 1772979894864.7363
+    },
+    "resources\\textures.meta": {
+      "time": 1772979894865.2434
+    },
+    "Scripts\\config.meta": {
+      "time": 1772979894865.2434
+    },
+    "Scripts\\entities.meta": {
+      "time": 1772979894867.3877
+    },
+    "Scripts\\managers.meta": {
+      "time": 1772979894868.4006
+    },
+    "Scripts\\scenes.meta": {
+      "time": 1772979894869.431
+    },
+    "Scripts\\systems.meta": {
+      "time": 1772979894870.8975
+    },
+    "Scripts\\types.meta": {
+      "time": 1772979894872.2412
+    },
+    "Scripts\\config\\GameConfig.ts.meta": {
+      "time": 1772979894877.5122
+    },
+    "Scripts\\config\\GameConstants.ts.meta": {
+      "time": 1772979894878.536
+    },
+    "Scripts\\entities\\Item.ts.meta": {
+      "time": 1772979894879.5781
+    },
+    "Scripts\\entities\\Plant.ts.meta": {
+      "time": 1772979894879.5781
+    },
+    "Scripts\\entities\\Projectile.ts.meta": {
+      "time": 1772979894880.5852
+    },
+    "Scripts\\entities\\Zombie.ts.meta": {
+      "time": 1772979894884.1467
+    },
+    "Scripts\\managers\\BattleManager.ts.meta": {
+      "time": 1772979894885.6545
+    },
+    "Scripts\\managers\\DragDropManager.ts.meta": {
+      "time": 1772979894886.7085
+    },
+    "Scripts\\managers\\MergeManager.ts.meta": {
+      "time": 1772979894886.7085
+    },
+    "Scripts\\managers\\ShopManager.ts.meta": {
+      "time": 1772979894888.2112
+    },
+    "Scripts\\managers\\WaveManager.ts.meta": {
+      "time": 1772979894888.7275
+    },
+    "Scripts\\scenes\\GameScene.ts.meta": {
+      "time": 1772979894889.782
+    },
+    "Scripts\\types\\GameTypes.ts.meta": {
+      "time": 1772979894890.8228
+    }
+  },
+  "missing": {}
+}
