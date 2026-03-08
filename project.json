@@ -1,0 +1,10 @@
+{
+  "version": "3.8.0",
+  "name": "plants-auto-chess",
+  "type": "3d",
+  "uuid": "plants-auto-chess-001",
+  "creator": {
+    "version": "3.8.0"
+  },
+  "dependencies": {}
+}

@@ -1,18 +1,9 @@
 {
   "name": "plants-auto-chess",
   "version": "1.0.0",
-  "description": "融合金铲铲之战和植物大战僵尸的策略游戏",
-  "type": "module",
+  "description": "植物自走棋 - Cocos Creator 版本",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
-  },
-  "devDependencies": {
-    "typescript": "^5.3.3",
-    "vite": "^5.0.10"
-  },
-  "dependencies": {
-    "phaser": "^3.70.0"
+    "build": "cocos build --platform wechatgame",
+    "preview": "cocos run --platform web-desktop"
   }
 }
