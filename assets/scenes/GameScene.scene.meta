@@ -1,0 +1,13 @@
+{
+  "ver": "1.0.26",
+  "import": [
+    "GameScene"
+  ],
+  "globalDep": {
+    "cc.Scene": "cc.Scene",
+    "cc.Node": "cc.Node",
+    "cc.Camera": "cc.Camera"
+  },
+  "deps": [],
+  "name": "GameScene"
+}

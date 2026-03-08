@@ -1,0 +1,142 @@
+[
+  {
+    "__type__": "cc.SceneAsset",
+    "_name": "0",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [
+      {
+        "__type__": "cc.Node",
+        "_name": "Canvas",
+        "_objFlags": 0,
+        "_parent": 0,
+        "_children": [
+          {
+            "__type__": "cc.Node",
+            "_name": "Camera",
+            "_objFlags": 0,
+            "_parent": 2,
+            "_children": [],
+            "_active": true,
+            "_components": [
+              {
+                "__type__": "cc.Camera",
+                "enabled": true
+              }
+            ],
+            "_prefab": null,
+            "_lpos": [
+              600,
+              400,
+              0
+            ],
+            "_lrot": [
+              0,
+              0,
+              0,
+              1
+            ],
+            "_lscale": [
+              1,
+              1,
+              1
+            ],
+            "_layer": 0,
+            "_euler": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "__type__": "cc.Node",
+            "_name": "GameScene",
+            "_objFlags": 0,
+            "_parent": 2,
+            "_children": [],
+            "_active": true,
+            "_components": [
+              {
+                "__type__": "GameScene",
+                "enabled": true
+              }
+            ],
+            "_prefab": null,
+            "_lpos": [
+              600,
+              400,
+              0
+            ],
+            "_lrot": [
+              0,
+              0,
+              0,
+              1
+            ],
+            "_lscale": [
+              1,
+              1,
+              1
+            ],
+            "_layer": 0,
+            "_euler": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "_active": true,
+        "_components": [],
+        "_prefab": null,
+        "_lpos": [
+          600,
+          400,
+          0
+        ],
+        "_lrot": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "_lscale": [
+          1,
+          1,
+          1
+        ],
+        "_layer": 0,
+        "_euler": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "_active": true,
+    "_components": [],
+    "_prefab": null,
+    "_lpos": [
+      0,
+      0,
+      0
+    ],
+    "_lrot": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "_lscale": [
+      1,
+      1,
+      1
+    ],
+    "_layer": 0,
+    "_euler": [
+      0,
+      0,
+      0
+    ]
+  }
+]
